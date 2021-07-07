@@ -67,7 +67,7 @@ highlight_name: false
 
 I am an independent journalist based in New Delhi, India. I write about politics, human rights, identity, education, health, and environment. Recently, I wrote an {{< staticref "https://www.outlookindia.com/website/story/opinion-dear-editor-i-disagree-with-your-both-sides-journalism/354922" "newtab" >}}open letter{{< /staticref >}} to my editor making a case against ‘both-sides’ journalism. It sparked a major debate in India's national media with top editors weighing into the discussion. The letter was also featured by {{< staticref "https://www.washingtonpost.com" "newtab" >}}The Washington Post{{< /staticref >}} in its daily global newsletter. 
 
-Previously, I was a Special Correspondent at the {{< staticref "https://www.outlookindia.com" "newtab" >}}Outlook{{< /staticref >}} magazine and correspondent at {{< staticref "https://www.hindustantimes.com" "newtab" >}}The Hindustan Times{{< /staticref >}}. I have reported from Delhi and Jaipur, as well as from remote areas in the states of Rajasthan and Uttar Pradesh, India. I specialize in long-form and features.
+Previously, I was a Special Correspondent at the {{< staticref "https://www.outlookindia.com" "newtab" >}}Outlook{{< /staticref >}} magazine and prior to that, I was a correspondent at {{< staticref "https://www.hindustantimes.com" "newtab" >}}The Hindustan Times{{< /staticref >}}. I have reported from Delhi and Jaipur, as well as from remote areas in the states of Rajasthan and Uttar Pradesh, India. I specialize in long-form and features.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ResumeSalikAhmad.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
